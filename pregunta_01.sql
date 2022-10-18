@@ -17,3 +17,7 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+Select 
+    SUM(c12)
+from
+    tbl1
